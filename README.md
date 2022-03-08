@@ -1,3 +1,9 @@
+# Minimal Reproducible Example
+
+For issue: https://github.com/software-mansion/react-native-gesture-handler/issues/1920
+
+Mostly copy from https://github.com/software-mansion/react-native-gesture-handler/tree/af5920b60be74cb19709e3095ca638e7882a77dc/FabricExample but only update metro.config.js for `inlineRequires: false`.
+
 # React Native Gesture Handler example app with Fabric
 
 ## Installing & running application
